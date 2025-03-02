@@ -1,0 +1,7 @@
+{
+    "model": "deepseek-r1",
+    "export_frequency": 4,
+    "max_retries": 2,
+    "retry_delay": 2,
+    "output_dir": "D:/write-plus/novel_generator/output"
+ }
